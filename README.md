@@ -13,4 +13,10 @@ Run the whole code in the "Fugure and Prelude VAE", it contains a jupyter notebo
 
 
 # For Audio VAE
-Run the whole code in the "Prelude Audio VAE", it contains a jupyter notebook that guides you into all the training and evaluation parts.
+Python dependencies for the audio experiments are listed in "Prelude Audio VAE"/requirements.txt. To install these dependencies, run
+```
+pip install -r "Prelude Audio VAE"/requirements.txt
+```
+The dataset used can be downloaded from [here](http://labrosa.ee.columbia.edu/projects/piano/).
+
+Run the whole code in the "Prelude Audio VAE"/vea_audio_zmu_oracle_vge.ipynb. The notebook will guide you through all the training and evaluation parts.
