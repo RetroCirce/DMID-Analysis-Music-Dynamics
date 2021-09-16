@@ -1,3 +1,5 @@
+# MINEimplementation
+# refer from https://github.com/sungyubkim/MINE-Mutual-Information-Neural-Estimation-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
